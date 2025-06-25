@@ -6,6 +6,8 @@ It bad, but it work.
 
 ## Installation 
 
+This script uses `imagemagick`. You can install with homebrew (`brew install imagemagick`) if you're on macOS. 
+
 Here is the alias you need for CLI use.
 
 `alias batchresize="~/.scripts/batch_square_resize/batch_square_resize.sh"`
